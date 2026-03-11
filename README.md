@@ -1,15 +1,15 @@
 <div align="center">
 
-```
+```text
 ██╗    ██╗ ████████╗ ███████╗ ██╗  ██████╗  ██╗  ██╗ ████████╗ ██╗
 ██║    ██║ ╚══██╔══╝ ██╔════╝ ██║ ██╔════╝  ██║  ██║ ╚══██╔══╝ ██║
 ██║ █╗ ██║    ██║    █████╗   ██║ ██║  ███╗ ███████║    ██║    ██║
 ██║███╗██║    ██║    ██╔══╝   ██║ ██║   ██║ ██╔══██║    ██║    ╚═╝
 ╚███╔███╔╝    ██║    ██║      ██║ ╚██████╔╝ ██║  ██║    ██║    ██╗
  ╚══╝╚══╝     ╚═╝    ╚═╝      ╚═╝  ╚═════╝  ╚═╝  ╚═╝    ╚═╝    ╚═╝
-
-              ─── W H A T   T H E   F I G H T . . . ! ? ───
 ```
+
+<h3>─── MAY THE MONEY REVEAL THE TRUTH ───</h3>
 
 ---
 
@@ -33,7 +33,7 @@ A conviction market protocol. Two tokens per debate. You don't vote — you buy.
 
 Every debate creates two real SPL tokens on a bonding curve. The Conviction Index scores capital, not noise. Everything is on-chain. Forever.
 
-```
+```text
   CAMP A                                    CAMP B
   █████████████░░░░░░░░░    vs    ░░░░░░░░░░░█████████████
        WTF_PROTRUMP                     WTF_ANTITRUMP
@@ -47,11 +47,11 @@ Every debate creates two real SPL tokens on a bonding curve. The Conviction Inde
 
 The arena is open. Three fights. Three chances to stake your claim and etch your name into the financial history of belief.
 
-| # | Fight | Category |
-|---|-------|----------|
-| 001 | PRO TRUMP vs ANTI TRUMP | Politics |
-| 002 | WTF_CAPITAL vs WTF_FEELING | Genesis |
-| 003 | WTF_PHYS vs WTF_AURA | Sport |
+| #   | Fight                      | Category |
+| --- | -------------------------- | -------- |
+| 001 | PRO TRUMP vs ANTI TRUMP    | Politics |
+| 002 | WTF_CAPITAL vs WTF_FEELING | Genesis  |
+| 003 | WTF_PHYS vs WTF_AURA       | Sport    |
 
 Three debates. Real tokens. Real capital. Public, undeniable conviction scores.
 
@@ -75,9 +75,9 @@ And because this is the Ledger, **nothing expires.** Every trade, every shift in
 
 Let's be clear about the lines we don't cross.
 
-- **This is NOT a prediction market.** There is no referee, no final whistle, no "correct" answer. The fight doesn't end; conviction simply flows.
-- **This is NOT a meme coin.** We aren't here for the ticker. Tokens are instruments of conviction, not jokes with a market cap.
-- **This is NOT a casino.** There is no house. There is no edge. There is only a bonding curve that issues tokens and a scoreboard that tracks the battle.
+* **This is NOT a prediction market.** There is no referee, no final whistle, no "correct" answer. The fight doesn't end; conviction simply flows.
+* **This is NOT a meme coin.** We aren't here for the ticker. Tokens are instruments of conviction, not jokes with a market cap.
+* **This is NOT a casino.** There is no house. There is no edge. There is only a bonding curve that issues tokens and a scoreboard that tracks the battle.
 
 ---
 
@@ -85,7 +85,7 @@ Let's be clear about the lines we don't cross.
 
 We started with a spark. Here is how we ignite the fire.
 
-```
+```text
 ● PHASE 1 · MVP                                    [ LIVE NOW ]
 │
 ├─ Pump.fun native integration · 2 SPL tokens per debate
@@ -132,7 +132,7 @@ WTFight is built on the shoulders of open-source infrastructure and public proto
 
 <div align="center">
 
-```
+```text
 ═══════════════════════════════════════
   Opinions are free.
   Conviction has a price.
